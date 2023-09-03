@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amir Aijaz 
-- Studying Computer Science from UoK.
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning and Deep Learning 
+- Passionate Computer Science student at UBIT, University of Karachi 🎓 
+- AI Engineer 🤖 | ML, Computer Vision, NLP Enthusiast 🧠 | Robotics Enthusiast 🤖 | Building the future through code 💻 
 - 💞️ I’m looking to collaborate on research in Artificial Intelligence.
+-  Check out my AI projects! 🚀👇 
 <!-- - 📫 You can reach me on Whatsapp: +92-3233232974 -->
 
 <!---
